@@ -1,0 +1,18 @@
+[
+	{
+		"Route": "21",
+		"RouteDirection": "WESTBOUND",
+		"Stop": "11862"
+	},
+	{
+		"Route": "63",
+		"RouteDirection": "EASTBOUND",
+		"Stop": "3130"
+	},
+	{
+		"Route": "63",
+		"RouteDirection": "WESTBOUND",
+		"Stop": "11862"
+	}
+
+]
